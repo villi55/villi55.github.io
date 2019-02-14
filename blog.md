@@ -5,7 +5,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ /_posts/2019-02-14-hello-world.md }}">{{ Welcome }}</a>
+      <a href="/_posts/2019-02-14-hello-world.md">Добре дошли / Welcome</a>
     </li>
   {% endfor %}
 </ul>
