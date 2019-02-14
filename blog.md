@@ -8,7 +8,7 @@ layout: default
       <a href="/_posts/2019-02-14-hello-world.md">Добре дошли / Welcome</a>
     </li>
     <li>
-      <a href="/_posts/2019-02-14-hello-world.md">Добре дошли / Welcome</a>
+      <a href="/_posts/2019-02-14-a-trip.md">Екскурзия / A Trip</a>
     </li>
     <li>
       <a href="/_posts/2019-02-14-hello-world.md">Добре дошли / Welcome</a>
