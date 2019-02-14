@@ -6,4 +6,22 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://villi55.github.io/about.html</loc>
+      <lastmod>2019-14-02</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://villi55.github.io/blog.html</loc>
+      <lastmod>2019-14-02</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://villi55.github.io/contact.html</loc>
+      <lastmod>2019-14-02</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset>
