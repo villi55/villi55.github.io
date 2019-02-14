@@ -7,9 +7,6 @@ layout: default
     <li>
       <a href="{{ /_posts/2019-02-14-hello-world.md }}">{{ Welcome }}</a>
     </li>
-    <li>
-      <a href="{{ /_posts/2019-02-14-hello-world.md }}">{{ Welcome }}</a>
-    </li>
   {% endfor %}
 </ul>
 
