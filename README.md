@@ -1,5 +1,5 @@
 
-[За мен / about me](/about.md) |
+[За мен / about me](/about.md)![ ](/assets/jammer.gif)|
 [Блог / blog](/about.md) |
 [Контакт / contact](/contact.md)
  
