@@ -1,6 +1,6 @@
 
 [За мен / about me](/about.md)![ ](/assets/jammer.gif)|
-[Блог / blog](/about.md) |
+[Блог / blog](/blog.md)![ ](/assets/print.gif)|
 [Контакт / contact](/contact.md)![ ](/assets/smartphone.gif)
  
 # villi55.github.io
