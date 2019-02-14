@@ -1,10 +1,10 @@
 # villi55.github.io
 
-[За мен](/about.md)
+[За мен / about me](/about.md)
 
-[Блог](/about.md)
+[Блог / blog](/about.md)
 
-[Контакти](/about.md)
+[Контакт / contact](/contact.md)
  
 ## Весели празници, еко!
 
