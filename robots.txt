@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://villi55.github.io/sitemap.xml
