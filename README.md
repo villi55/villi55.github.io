@@ -1,7 +1,7 @@
 
 [За мен / about me](/about.md)![ ](/assets/jammer.gif)|
 [Блог / blog](/about.md) |
-[Контакт / contact](/contact.md)
+[Контакт / contact](/contact.md)![ ](/assets/smartphone.gif)
  
 # villi55.github.io
 
