@@ -3,5 +3,7 @@
 ## Весели празници, еко!
 ### villi55.github.io
 [https://villi55.github.io/](url) and ![https://avatars1.githubusercontent.com/u/47612558?s=460&v=4](src)
-[Link](url) and ![Image](src)
-villi.github.io is maintained by villi55.
+
+[villi55.github.io](https://villi55.github.io/) and ![Octocat](https://avatars1.githubusercontent.com/u/47612558?s=460&v=4)
+
+villi55.github.io is maintained by villi55.
